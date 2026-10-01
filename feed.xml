@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entérate en 5 con Dennito</title>
     <link>https://github.com/Dennito/Ent-rate-en-5</link>
+    <atom:link href="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Las noticias más importantes del día en cinco minutos, con Sofia y Diego.</description>
     <language>es</language>
+    <copyright>© 2026 Dennito</copyright>
     <itunes:author>Dennito</itunes:author>
     <itunes:summary>Las noticias más importantes del día en cinco minutos, con Sofia y Diego.</itunes:summary>
     <itunes:owner>
       <itunes:name>Dennito</itunes:name>
       <itunes:email>dennysbank@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="News"/>
     <itunes:image href="https://files.catbox.moe/m72ibi.jpg"/>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Thu, 01 Oct 2026 18:40:00 -0400</lastBuildDate>
     <item>
       <title>Las noticias del día: 1 de octubre de 2026</title>
-      <description>Sofia y Diego te cuentan las noticias más importantes del día en cinco minutos: el incidente del vuelo de Flydubai, las elecciones en Brasil, la apuesta de Trump por la IA, el debate en California, el caso Cornell y los despidos en Disney.</description>
-      <pubDate>Thu, 01 Oct 2026 22:35:00 GMT</pubDate>
-      <enclosure url="https://files.catbox.moe/ei10ob.mp3" length="2045413" type="audio/mpeg"/>
-      <guid isPermaLink="false">enterate-en-5-2026-10-01</guid>
+      <description>Incidente del vuelo de Flydubai con destino a Israel; elecciones de Brasil y encuestas Lula–Flavio Bolsonaro; Donald Trump y la inteligencia artificial; debate por la gobernación de California; Cornell y denuncias de agresión sexual; despidos en Disney.</description>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">las-noticias-del-da-1-de-octubre-de-2026-2026-10-01-b8be4458</guid>
+      <enclosure url="https://files.catbox.moe/5gf0za.mp3" length="4091896" type="audio/mpeg"/>
       <itunes:duration>04:15</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
