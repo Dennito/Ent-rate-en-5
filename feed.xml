@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 01 Oct 2026 18:40:00 -0400</lastBuildDate>
-    <item>
+    <lastBuildDate>Fri, 02 Oct 2026 17:39:22 -0400</lastBuildDate>
+        <item>
+      <title>Juez vs Trump, 250 mil visas menos y Starship en órbita</title>
+      <description>Las noticias del día con Sofía y Diego: el ultimátum del juez a Trump, la revocación masiva de visas, el Pentágono y sus robots, el Starship en órbita y la reaparición de AMLO. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 02 Oct 2026 17:39:22 -0400</pubDate>
+      <guid isPermaLink="false">entrate-en-5-edicin-expresiva-demo-2026-10-02</guid>
+      <enclosure url="https://files.catbox.moe/ea5xkc.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Las noticias del día: 1 de octubre de 2026</title>
       <description>Incidente del vuelo de Flydubai con destino a Israel; elecciones de Brasil y encuestas Lula–Flavio Bolsonaro; Donald Trump y la inteligencia artificial; debate por la gobernación de California; Cornell y denuncias de agresión sexual; despidos en Disney.</description>
       <pubDate>Thu, 01 Oct 2026 12:00:00 -0400</pubDate>
