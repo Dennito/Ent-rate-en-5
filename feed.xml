@@ -17,7 +17,7 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 05 Oct 2026 06:43:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:01:29 +0000</lastBuildDate>
                             <item>
       <title>Brasil tiene finalistas: Flávio vence en primera vuelta y Canadá se prepara para lo impensable</title>
       <description>Sofía y Diego con el resumen de la mañana: resultado final de la primera vuelta en Brasil con Flávio Bolsonaro al frente y balotaje el 25 de octubre, encuesta que muestra el desencanto de los votantes latinos con Trump, Canadá admite que analizó el riesgo de una acción militar de EE. UU., ruptura diplomática entre Etiopía y Eritrea y el sorpresivo dato del Latinobarómetro sobre China en la región. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
@@ -43,6 +43,15 @@
       <guid isPermaLink="false">brasil-vota-hoy-empate-tcnico-y-la-noche-que-decide-amrica-latina-2026-10-04</guid>
       <enclosure url="https://files.catbox.moe/r05gze.mp3" length="4534515" type="audio/mpeg"/>
       <itunes:duration>04:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>El buque fantasma de Cuba, Brasil vota mañana y la señal de otro mundo</title>
+      <description>Sofía y Diego con el resumen nocturno: el buque Grace interceptado con combustible rumbo a Cuba, Brasil vota mañana en una elección cabeza a cabeza, Trump advierte sobre un juicio político, Ucrania y Rusia suben la tensión, protestas en Francia y España, y la primera señal de radio captada de un exoplaneta. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 03 Oct 2026 17:45:00 -0400</pubDate>
+      <guid isPermaLink="false">el-buque-fantasma-de-cuba-brasil-vota-maana-y-la-seal-de-otro-mundo-2026-10-03</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/el-buque-fantasma-de-cuba-brasil-vota-maana-y-la-seal-de-otro-mundo-2026-10-03.mp3" length="2623816" type="audio/mpeg"/>
+      <itunes:duration>04:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 <item>
