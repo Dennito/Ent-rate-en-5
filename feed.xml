@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 06:59:13 -0400</lastBuildDate>
-                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Wed, 28 Oct 2026 12:17:41 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                <item>
+      <title>Entérate en 5 con Dennito — Mediodía 28 de octubre: alerta sobre Irán, ébola y gasto electoral récord</title>
+      <description>Edición del mediodía del miércoles 28 de octubre de 2026: Washington advierte al Golfo de una posible campaña contra Irán tras las intermedias, el ébola en el Congo supera los diez mil casos, el gasto electoral rompe el récord de once mil millones de dólares, China fabrica memoria de IA contra viento y marea, el polvo de Marte, la Champions de Asia y la piscina de pepinillos que conquistó las redes. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 28 Oct 2026 12:17:41 -0400</pubDate>
+      <guid isPermaLink="false">entrate-en-5-con-dennito-medioda-28-de-octubre-alerta-sobre-irn-bola-y-gasto-electoral-rcord-2026-10-28</guid>
+      <enclosure url="https://files.catbox.moe/hm4z21.mp3" length="26356164" type="audio/mpeg"/>
+      <itunes:duration>30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡Tampa Bay se niega a morir! Israel sin ganador y el ciclón Arnab | Entérate en 5, mañana 28 de octubre</title>
       <description>Noticiero de la mañana del 28 de octubre de 2026: los Rays evitan la barrida en 12 entradas, Israel sigue sin ganador en el recuento, Brasil y la huida de Flávio Bolsonaro, el ciclón Arnab toca tierra en India, la carrera de la IA entre China y Estados Unidos, la NBA y lo viral. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 28 Oct 2026 06:59:13 -0400</pubDate>
@@ -549,14 +558,6 @@
       <itunes:duration>02:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Las noticias del día: 1 de octubre de 2026</title>
-      <description>Incidente del vuelo de Flydubai con destino a Israel; elecciones de Brasil y encuestas Lula–Flavio Bolsonaro; Donald Trump y la inteligencia artificial; debate por la gobernación de California; Cornell y denuncias de agresión sexual; despidos en Disney.</description>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">las-noticias-del-da-1-de-octubre-de-2026-2026-10-01-b8be4458</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/las-noticias-del-da-1-de-octubre-de-2026-2026-10-01-b8be4458.mp3" length="2045413" type="audio/mpeg"/>
-      <itunes:duration>04:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
   </channel>
 </rss>
