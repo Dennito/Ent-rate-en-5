@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 12:17:41 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Wed, 28 Oct 2026 18:09:08 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                    <item>
+      <title>Tragedia en Toledo, Israel sin ganador y la noche que decide la Serie Mundial</title>
+      <description>Edición de la tarde del 28 de octubre de 2026: el choque de trenes de Urda, el recuento de Israel sin mayoría, la ONU y Cuba, la IA que rompe récords y la noche en que Milwaukee puede ser campeón. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 28 Oct 2026 18:09:08 -0400</pubDate>
+      <guid isPermaLink="false">tragedia-en-toledo-israel-sin-ganador-y-la-noche-que-decide-la-serie-mundial-2026-10-28</guid>
+      <enclosure url="https://files.catbox.moe/0xzsee.mp3" length="27345055" type="audio/mpeg"/>
+      <itunes:duration>31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Entérate en 5 con Dennito — Mediodía 28 de octubre: alerta sobre Irán, ébola y gasto electoral récord</title>
       <description>Edición del mediodía del miércoles 28 de octubre de 2026: Washington advierte al Golfo de una posible campaña contra Irán tras las intermedias, el ébola en el Congo supera los diez mil casos, el gasto electoral rompe el récord de once mil millones de dólares, China fabrica memoria de IA contra viento y marea, el polvo de Marte, la Champions de Asia y la piscina de pepinillos que conquistó las redes. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 28 Oct 2026 12:17:41 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>03:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Juez vs Trump, 250 mil visas menos y Starship en órbita</title>
-      <description>Las noticias del día con Sofía y Diego: el ultimátum del juez a Trump, la revocación masiva de visas, el Pentágono y sus robots, el Starship en órbita y la reaparición de AMLO. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Fri, 02 Oct 2026 17:39:22 -0400</pubDate>
-      <guid isPermaLink="false">entrate-en-5-edicin-expresiva-demo-2026-10-02</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/entrate-en-5-edicin-expresiva-demo-2026-10-02.mp3" length="2512846" type="audio/mpeg"/>
-      <itunes:duration>02:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
   </channel>
 </rss>
