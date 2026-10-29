@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 12:20:35 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Thu, 29 Oct 2026 18:09:15 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                    <item>
+      <title>Diez misiles, Urda sube a 69 y Google se desploma — Entérate en 5 con Dennito, tarde del 29 de octubre</title>
+      <description>Edición de la tarde del jueves 29 de octubre de 2026: Corea del Norte lanza diez misiles, España actualiza la tragedia de Urda, Israel cierra su recuento sin mayoría, Estados Unidos entra en la recta final de las intermedias, México despide a Cuauhtémoc Cárdenas, la carrera de los robots que aprenden, la caída de Alphabet, una explosión cósmica vista de lado y la jornada de la MLS. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 29 Oct 2026 18:09:15 -0400</pubDate>
+      <guid isPermaLink="false">diez-misiles-urda-sube-a-69-y-google-se-desploma-entrate-en-5-con-dennito-tarde-del-29-de-octubre-2026-10-29</guid>
+      <enclosure url="https://files.catbox.moe/oz1dq3.mp3" length="26839325" type="audio/mpeg"/>
+      <itunes:duration>30:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Dnipro bajo fuego, el PIB sorprende y un cometa que no vuelve</title>
       <description>Edición del mediodía de Entérate en 5 con Dennito: el ataque en Dnipro, el crecimiento de Estados Unidos, las encuestas del Senado, la carrera de la inteligencia artificial y el perihelio del cometa 3I/ATLAS. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 29 Oct 2026 12:20:35 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Brasil vota hoy: empate técnico y la noche que decide América Latina</title>
-      <description>Sofía y Diego amanecen con el día decisivo: Brasil elige presidente hoy con Lula y Flávio Bolsonaro en empate técnico. Además: El Niño golpea California, Canadá se queda sin gente, la IA llega al ejército de EE. UU. y Saturno regala espectáculo esta noche. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 04 Oct 2026 06:43:41 -0400</pubDate>
-      <guid isPermaLink="false">brasil-vota-hoy-empate-tcnico-y-la-noche-que-decide-amrica-latina-2026-10-04</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/brasil-vota-hoy-empate-tcnico-y-la-noche-que-decide-amrica-latina-2026-10-04.mp3" length="4534515" type="audio/mpeg"/>
-      <itunes:duration>04:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
     
 
 
