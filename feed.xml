@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 28 Oct 2026 18:17:44 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Thu, 29 Oct 2026 07:06:01 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                            <item>
+      <title>Milwaukee campeón por primera vez y España de luto: Entérate en 5, mañana 29 de octubre</title>
+      <description>Noticiero de la mañana del 29 de octubre de 2026: Milwaukee gana su primera Serie Mundial, España vive tres días de luto por Urda, Israel sin mayoría, la Fed mantiene los tipos, China presenta un chip que desafía a Nvidia, robots récord y la NBA con Curry y Jokic históricos. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 29 Oct 2026 07:06:01 -0400</pubDate>
+      <guid isPermaLink="false">milwaukee-campen-por-primera-vez-y-espaa-de-luto-entrate-en-5-maana-29-de-octubre-2026-10-29</guid>
+      <enclosure url="https://files.catbox.moe/4gp028.mp3" length="27351325" type="audio/mpeg"/>
+      <itunes:duration>31:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Tragedia en Toledo, Israel sin ganador y la noche que decide la Serie Mundial</title>
       <description>Edición de la tarde del 28 de octubre de 2026: el choque de trenes de Urda, el recuento de Israel sin mayoría, la ONU y Cuba, la IA que rompe récords y la noche en que Milwaukee puede ser campeón. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 28 Oct 2026 18:17:44 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Amenaza de bomba en Brasil, diésel en caída y el congresista de los cincuenta millones</title>
-      <description>Sofía y Diego con las noticias del sábado: cierre de embajadas en Brasil antes de la elección del domingo, el G7 libera reservas de diésel, América Latina prefiere a China sobre EE. UU., la advertencia nuclear de Putin y la condena del excongresista David Rivera. Música: Kevin MacLeod (incompetech.com), bajo licencia Creative Commons BY 4.0. Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 03 Oct 2026 07:13:21 -0400</pubDate>
-      <guid isPermaLink="false">amenaza-de-bomba-en-brasil-disel-en-cada-y-el-congresista-de-los-cincuenta-millones-2026-10-03</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/amenaza-de-bomba-en-brasil-disel-en-cada-y-el-congresista-de-los-cincuenta-millones-2026-10-03.mp3" length="3842374" type="audio/mpeg"/>
-      <itunes:duration>04:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
