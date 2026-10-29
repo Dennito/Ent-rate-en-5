@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 07:06:01 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Thu, 29 Oct 2026 12:20:35 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                <item>
+      <title>Dnipro bajo fuego, el PIB sorprende y un cometa que no vuelve</title>
+      <description>Edición del mediodía de Entérate en 5 con Dennito: el ataque en Dnipro, el crecimiento de Estados Unidos, las encuestas del Senado, la carrera de la inteligencia artificial y el perihelio del cometa 3I/ATLAS. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 29 Oct 2026 12:20:35 -0400</pubDate>
+      <guid isPermaLink="false">dnipro-bajo-fuego-el-pib-sorprende-y-un-cometa-que-no-vuelve-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/dnipro-bajo-fuego-el-pib-sorprende-y-un-cometa-que-no-vuelve-2026-10-29.mp3" length="26614045" type="audio/mpeg"/>
+      <itunes:duration>30:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Milwaukee campeón por primera vez y España de luto: Entérate en 5, mañana 29 de octubre</title>
       <description>Noticiero de la mañana del 29 de octubre de 2026: Milwaukee gana su primera Serie Mundial, España vive tres días de luto por Urda, Israel sin mayoría, la Fed mantiene los tipos, China presenta un chip que desafía a Nvidia, robots récord y la NBA con Curry y Jokic históricos. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 29 Oct 2026 07:06:01 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item>
-      <title>El buque fantasma de Cuba, Brasil vota mañana y la señal de otro mundo</title>
-      <description>Sofía y Diego con el resumen nocturno: el buque Grace interceptado con combustible rumbo a Cuba, Brasil vota mañana en una elección cabeza a cabeza, Trump advierte sobre un juicio político, Ucrania y Rusia suben la tensión, protestas en Francia y España, y la primera señal de radio captada de un exoplaneta. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 03 Oct 2026 17:45:00 -0400</pubDate>
-      <guid isPermaLink="false">el-buque-fantasma-de-cuba-brasil-vota-maana-y-la-seal-de-otro-mundo-2026-10-03</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/el-buque-fantasma-de-cuba-brasil-vota-maana-y-la-seal-de-otro-mundo-2026-10-03.mp3" length="2623816" type="audio/mpeg"/>
-      <itunes:duration>04:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    
 
 
 
