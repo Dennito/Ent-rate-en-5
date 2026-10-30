@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 07:09:12 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Fri, 30 Oct 2026 12:22:41 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                <item>
+      <title>Entérate en 5 con Dennito — Mediodía 30 de octubre: Irán, el petróleo y la IA que ataca</title>
+      <description>Edición del mediodía del viernes 30 de octubre de 2026: el briefing de la Casa Blanca sobre Irán y el petróleo en máximos desde abril, los agentes de IA que atacaron a más de 200 organizaciones, la caída de las bolsas tecnológicas, el caso de espionaje de chips de Nvidia, robotaxis en Japón, el avión supersónico silencioso de la NASA, México, el Caribe, LaLiga, la final de la WNBA y la historia de Ana Paula Vázquez. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 30 Oct 2026 12:22:41 -0400</pubDate>
+      <guid isPermaLink="false">entrate-en-5-con-dennito-medioda-30-de-octubre-irn-el-petrleo-y-la-ia-que-ataca-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/entrate-en-5-con-dennito-medioda-30-de-octubre-irn-el-petrleo-y-la-ia-que-ataca-2026-10-30.mp3" length="26604431" type="audio/mpeg"/>
+      <itunes:duration>30:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Diez misiles de Corea del Norte, ayuda para Oleshky y casi cuarenta millones de votos: Entérate en 5, mañana 30 de octubre</title>
       <description>Noticiero de la mañana del 30 de octubre de 2026: Corea del Norte lanza diez misiles, llega ayuda humanitaria a Oleshky, el voto anticipado en Estados Unidos roza los cuarenta millones, Trump responde sobre Epstein en Ohio, el cruce Argentina-Brasil en el G20 de Atlanta, la decisión del BCE, robots e IA en China, Japón y Corea, ciencia del cerebro y deportes con Memphis invicto y el Barça femenino goleando. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 30 Oct 2026 07:09:12 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Elecciones anticipadas en España, petróleo ruso en la mesa de paz y el Nobel que enciende neuronas</title>
-      <description>Sofía y Diego con el resumen nocturno del lunes: Pedro Sánchez convoca elecciones generales en España para el veintinueve de noviembre, The New York Times revela un multimillonario negocio petrolero en las conversaciones sobre Ucrania, el Nobel de Medicina premia la optogenética, Trump anuncia noventa dólares para jubilados de Medicare, y un avión médico desaparece cerca de Nantucket. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Mon, 05 Oct 2026 17:48:25 -0400</pubDate>
-      <guid isPermaLink="false">elecciones-anticipadas-en-espaa-petrleo-ruso-en-la-mesa-de-paz-y-el-nobel-que-enciende-neuronas-2026-10-05</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/elecciones-anticipadas-en-espaa-petrleo-ruso-en-la-mesa-de-paz-y-el-nobel-que-enciende-neuronas-2026-10-05.mp3" length="4017081" type="audio/mpeg"/>
-      <itunes:duration>04:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
