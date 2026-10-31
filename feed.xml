@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 06:59:29 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Sat, 31 Oct 2026 12:26:03 -0400</lastBuildDate>
+                                                                                                                                                                                                                                                                                            <item>
+      <title>Urda despide a sus víctimas, Wall Street se desploma y faltan tres días para las intermedias — Entérate en 5 con Dennito, mediodía 31 de octubre</title>
+      <description>Edición del mediodía del 31 de octubre de 2026: funeral y balance de Urda, el desplome de Wall Street con Intel a la cabeza, la cuenta atrás de las intermedias en Estados Unidos, la tensión Brasil-Argentina, Polonia, Francia, robots, ciencia, deportes y la despedida de Patrick Stewart. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 31 Oct 2026 12:26:03 -0400</pubDate>
+      <guid isPermaLink="false">urda-despide-a-sus-vctimas-wall-street-se-desploma-y-faltan-tres-das-para-las-intermedias-entrate-en-5-con-dennito-medioda-31-de-octubre-2026-10-31</guid>
+      <enclosure url="https://files.catbox.moe/r88b3m.mp3" length="26402557" type="audio/mpeg"/>
+      <itunes:duration>30:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Ormuz en llamas, voto récord en EE.UU. y Canelo vuelve hoy — Entérate en 5 con Dennito, mañana 31 de octubre</title>
       <description>Noticiero de la mañana del 31 de octubre de 2026: ataque en Ormuz y petróleo en máximos de seis meses, más de 44 millones de votos anticipados en EE.UU., la IA llega al espacio, el Hubble busca rescate, la Copa NBA, Canelo contra Mbilli y el fin de semana de clásicos. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 31 Oct 2026 06:59:29 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>05:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Skydance nace gigante, el diésel rojo de Trump, Francia en llamas y la sobreviviente de la inyección letal</title>
-      <description>Sofía y Diego con el resumen de la mañana del miércoles: cierra la megafusión Paramount-Warner Bros y nace Skydance, Trump autoriza el diésel rojo en carreteras, Francia vive sus mayores protestas estudiantiles en décadas y Christa Pike, la mujer que sobrevivió a dos dosis de la inyección letal, ya está hablando. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 07 Oct 2026 06:45:23 -0400</pubDate>
-      <guid isPermaLink="false">skydance-nace-gigante-el-disel-rojo-de-trump-francia-en-llamas-y-la-sobreviviente-de-la-inyeccin-letal-2026-10-07</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/skydance-nace-gigante-el-disel-rojo-de-trump-francia-en-llamas-y-la-sobreviviente-de-la-inyeccin-letal-2026-10-07.mp3" length="3930564" type="audio/mpeg"/>
-      <itunes:duration>04:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
