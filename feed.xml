@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 31 Oct 2026 18:22:06 -0400</lastBuildDate>
-                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Sun, 01 Nov 2026 06:59:21 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                    <item>
+      <title>Voto récord en EE.UU., Ormuz en vilo y Canelo vuelve a ser campeón — Entérate en 5 con Dennito, mañana 1 de noviembre</title>
+      <description>Noticiero de la mañana de Entérate en 5 con Dennito: más de 51 millones de votos anticipados antes de las intermedias, Irán y el estrecho de Ormuz, Ucrania, Pemex, tecnología de China, el espacio y el regreso de Canelo como campeón. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 01 Nov 2026 06:59:21 -0500</pubDate>
+      <guid isPermaLink="false">voto-rcord-en-eeuu-ormuz-en-vilo-y-canelo-vuelve-a-ser-campen-entrate-en-5-con-dennito-maana-1-de-noviembre-2026-11-01</guid>
+      <enclosure url="https://files.catbox.moe/exv2p1.mp3" length="26245823" type="audio/mpeg"/>
+      <itunes:duration>30:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Alerta en Moscú, el G20 sin acuerdo y faltan tres días para las intermedias — Entérate en 5 con Dennito, tarde del 31 de octubre</title>
       <description>Entérate en 5 con Dennito, tarde del sábado 31 de octubre de 2026: alerta de atentado en Moscú, el G20 de Atlanta sin consenso, las intermedias con tres ángulos nuevos, Tamaulipas, el pacto de la COP17, un robot que baila diseñado por IA, la dieta mediterránea en la sangre, y la cartelera de Canelo en Riad. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 31 Oct 2026 18:22:06 -0400</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Isaías amenaza la costa del Golfo, el Nobel de Química y adiós a Piero</title>
-      <description>Sofía y Diego traen el huracán Isaías con récord histórico rumbo a Florida y Alabama, el Nobel de Química que resolvió un misterio de cien años, China contra los robots enamorados y el adiós al cantautor Piero. Entérate en 5 con Dennito. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Thu, 08 Oct 2026 06:44:44 -0400</pubDate>
-      <guid isPermaLink="false">isaas-amenaza-la-costa-del-golfo-el-nobel-de-qumica-y-adis-a-piero-2026-10-08</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/isaas-amenaza-la-costa-del-golfo-el-nobel-de-qumica-y-adis-a-piero-2026-10-08.mp3" length="4837953" type="audio/mpeg"/>
-      <itunes:duration>05:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
