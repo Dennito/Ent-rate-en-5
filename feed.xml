@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 05 Nov 2026 13:09:46 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Thu, 05 Nov 2026 23:57:35 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                <item>
+      <title>¡Un presidente renuncia en vivo! Paraguay, Ormuz en llamas y el adiós de Cristiano</title>
+      <description>Edición de la tarde del jueves 5 de noviembre de 2026: Santiago Peña renuncia en Paraguay mientras lo juzgaban, Ormuz arde con cinco petroleros, Francia cierra su huelga histórica, la autopsia republicana, la guerra de los chips, el avión X-70 de la NASA, México y el INE, y el adiós de Cristiano Ronaldo a Portugal. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 05 Nov 2026 23:57:35 -0500</pubDate>
+      <guid isPermaLink="false">un-presidente-renuncia-en-vivo-paraguay-ormuz-en-llamas-y-el-adis-de-cristiano-2026-11-05</guid>
+      <enclosure url="https://files.catbox.moe/tx6sqh.mp3" length="28314720" type="audio/mpeg"/>
+      <itunes:duration>32:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>China bloquea la compra robot de SoftBank, Johnson renuncia y Corea del Norte prueba misiles nuevos — Entérate en 5, mediodía del 5 de noviembre</title>
       <description>Mediodía del jueves 5 de noviembre de 2026: China frena a SoftBank en robótica, Johnson renuncia tras la derrota republicana, Corea del Norte prueba misiles nuevos, Francia paralizada al mediodía, Apple advierte sobre sus agentes de inteligencia artificial, el oxígeno perdido de las galaxias enanas, México rompe récords en servidores y una noche de récords en la NBA. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 05 Nov 2026 13:09:46 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Isaías, categoría tres: toca tierra esta noche</title>
-      <description>Sofía y Diego con el resumen nocturno del viernes nueve de octubre de dos mil veintiséis: Isaías se fortalece a categoría tres y toca tierra esta noche en la costa del Golfo; la batalla por el Nobel de la Paz entre Trump y el comité; Brasil ordena el arresto de Eduardo Bolsonaro; Trump suspende a Microsoft y Adobe del programa de green cards; y el huracán Simón va rumbo a categoría cuatro en el Pacífico mexicano. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Fri, 09 Oct 2026 17:47:27 -0400</pubDate>
-      <guid isPermaLink="false">isaas-categora-tres-toca-tierra-esta-noche-2026-10-09</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/isaas-categora-tres-toca-tierra-esta-noche-2026-10-09.mp3" length="4370675" type="audio/mpeg"/>
-      <itunes:duration>05:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
