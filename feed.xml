@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 05 Nov 2026 23:57:35 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Fri, 06 Nov 2026 07:49:51 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Mañana se vota, Ormuz bajo fuego y el telescopio que se cae</title>
+      <description>Entérate en 5 con Dennito: la Corte Suprema y las boletas de California en víspera de las elecciones, nuevos ataques en Ormuz, la noche de 193 drones sobre Ucrania, el desplome del petróleo, el telescopio Swift que cae el viernes y la NFL sin invictos. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Fri, 06 Nov 2026 07:49:51 -0500</pubDate>
+      <guid isPermaLink="false">maana-se-vota-ormuz-bajo-fuego-y-el-telescopio-que-se-cae-2026-11-02</guid>
+      <enclosure url="https://files.catbox.moe/q2382l.mp3" length="29322838" type="audio/mpeg"/>
+      <itunes:duration>33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>¡Un presidente renuncia en vivo! Paraguay, Ormuz en llamas y el adiós de Cristiano</title>
       <description>Edición de la tarde del jueves 5 de noviembre de 2026: Santiago Peña renuncia en Paraguay mientras lo juzgaban, Ormuz arde con cinco petroleros, Francia cierra su huelga histórica, la autopsia republicana, la guerra de los chips, el avión X-70 de la NASA, México y el INE, y el adiós de Cristiano Ronaldo a Portugal. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Thu, 05 Nov 2026 23:57:35 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Terremoto en Panamá, Nobel para Pillay e Isaías toca tierra</title>
-      <description>Sofía y Diego con las noticias del sábado diez de octubre de dos mil veintiséis: terremoto de magnitud siete punto seis en Panamá con alerta de tsunami en nueve países, el huracán Isaías toca tierra en Florida, el Nobel de la Paz para Navi Pillay, Mamdani pide abolir a ICE tras el tiroteo en el Bronx, Katie Zacharia nueva portavoz de la Casa Blanca, y la sorpresa de Starbucks con Chipotle. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 10 Oct 2026 06:44:01 -0400</pubDate>
-      <guid isPermaLink="false">terremoto-en-panam-nobel-para-pillay-e-isaas-toca-tierra-2026-10-10</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/terremoto-en-panam-nobel-para-pillay-e-isaas-toca-tierra-2026-10-10.mp3" length="3618766" type="audio/mpeg"/>
-      <itunes:duration>04:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
