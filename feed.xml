@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 07:49:51 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Sat, 07 Nov 2026 08:47:37 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                        <item>
+      <title>Miller jefe de gabinete, Qeshm bajo fuego y los robots que dan las noticias — Entérate en 5, mañana del 7 de noviembre</title>
+      <description>Noticiero de la mañana del 7 de noviembre de 2026: Trump nombra a Stephen Miller jefe de gabinete, Estados Unidos confirma nuevos ataques en la isla de Qeshm, recompensa de 20 millones por el programa nuclear iraní, el sarampión supera los 5.000 casos, los robots presentadores de Xinhua, el dinosaurio con sangre de 115 millones de años y Porzingis se aparta del baloncesto. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 07 Nov 2026 08:47:37 -0500</pubDate>
+      <guid isPermaLink="false">miller-jefe-de-gabinete-qeshm-bajo-fuego-y-los-robots-que-dan-las-noticias-entrate-en-5-maana-del-7-de-noviembre-2026-11-07</guid>
+      <enclosure url="https://files.catbox.moe/zr7amt.mp3" length="29601167" type="audio/mpeg"/>
+      <itunes:duration>33:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Mañana se vota, Ormuz bajo fuego y el telescopio que se cae</title>
       <description>Entérate en 5 con Dennito: la Corte Suprema y las boletas de California en víspera de las elecciones, nuevos ataques en Ormuz, la noche de 193 drones sobre Ucrania, el desplome del petróleo, el telescopio Swift que cae el viernes y la NFL sin invictos. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Fri, 06 Nov 2026 07:49:51 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Simón categoría 4: México se prepara; Isaías deja cuatro muertos</title>
-      <description>Sofía y Diego con el resumen del sábado diez de octubre: el huracán Simón alcanza categoría cuatro y toca tierra esta noche en Jalisco, el balance del paso de Isaías por Florida y Alabama, más de cien réplicas en Panamá, Trump sanciona a la Corte Penal Internacional tras el Nobel a Pillay y las encuestas le dan la vuelta al balotaje en Brasil. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sat, 10 Oct 2026 17:47:05 -0400</pubDate>
-      <guid isPermaLink="false">simn-categora-4-mxico-se-prepara-isaas-deja-cuatro-muertos-2026-10-10</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/simn-categora-4-mxico-se-prepara-isaas-deja-cuatro-muertos-2026-10-10.mp3" length="4345179" type="audio/mpeg"/>
-      <itunes:duration>04:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
