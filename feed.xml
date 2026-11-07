@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 07 Nov 2026 08:47:37 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Sat, 07 Nov 2026 12:52:33 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Kiev bajo fuego, la Fiscalía Europea tras el AVE y la IA que rompe códigos — Entérate en 5, mediodía del 7 de noviembre</title>
+      <description>Noticiero del mediodía del 7 de noviembre de 2026: Rusia bombardea Kiev con 36 misiles y 172 drones, la Fiscalía Europea investiga los fondos del AVE tras la tragedia de Urda, Irán levanta el límite a sus misiles, México recorta 5.000 millones al INE, la IA de DeepMind encuentra fallas en RSA y las sondas ESCAPADE usan la Tierra como trampolín a Marte. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 07 Nov 2026 12:52:33 -0500</pubDate>
+      <guid isPermaLink="false">kiev-bajo-fuego-la-fiscala-europea-tras-el-ave-y-la-ia-que-rompe-cdigos-entrate-en-5-medioda-del-7-de-noviembre-2026-11-07</guid>
+      <enclosure url="https://files.catbox.moe/sy95r4.mp3" length="29097108" type="audio/mpeg"/>
+      <itunes:duration>30:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Miller jefe de gabinete, Qeshm bajo fuego y los robots que dan las noticias — Entérate en 5, mañana del 7 de noviembre</title>
       <description>Noticiero de la mañana del 7 de noviembre de 2026: Trump nombra a Stephen Miller jefe de gabinete, Estados Unidos confirma nuevos ataques en la isla de Qeshm, recompensa de 20 millones por el programa nuclear iraní, el sarampión supera los 5.000 casos, los robots presentadores de Xinhua, el dinosaurio con sangre de 115 millones de años y Porzingis se aparta del baloncesto. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 07 Nov 2026 08:47:37 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>03:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Misil sobre Riad, Trump exige relevo en Ucrania y Simón toca tierra en México</title>
-      <description>Sofía y Diego en la edición matutina del domingo once de octubre: el misil contra el aeropuerto de Riad deja doce muertos, Trump arremete contra Zelenski y exige un nuevo presidente para Ucrania, el huracán Simón toca tierra en Jalisco, Rick Scott pone plazo de nueve meses para elecciones en Venezuela y Elon Musk quiere convertir a Starlink en compañía de celular. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 11 Oct 2026 06:44:54 -0400</pubDate>
-      <guid isPermaLink="false">misil-sobre-riad-trump-exige-relevo-en-ucrania-y-simn-toca-tierra-en-mxico-2026-10-11</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/misil-sobre-riad-trump-exige-relevo-en-ucrania-y-simn-toca-tierra-en-mxico-2026-10-11.mp3" length="3793055" type="audio/mpeg"/>
-      <itunes:duration>04:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
