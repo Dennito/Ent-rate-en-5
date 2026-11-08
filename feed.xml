@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 07 Nov 2026 12:52:33 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                            <item>
+    <lastBuildDate>Sat, 07 Nov 2026 20:41:06 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                <item>
+      <title>Tiroteo en Cracovia, Siria manda tropas y la pole de Norris bajo la lluvia — Entérate en 5, tarde del 7 de noviembre</title>
+      <description>Noticiero de la tarde del 7 de noviembre de 2026: el ataque de Cracovia, Siria manda tropas contra los hutíes, Zelenski rechaza el plan de Trump, las protestas de Francia, la IA que recuerda y la pole de Norris bajo la lluvia en Brasil. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sat, 07 Nov 2026 20:41:06 -0500</pubDate>
+      <guid isPermaLink="false">tiroteo-en-cracovia-siria-manda-tropas-y-la-pole-de-norris-bajo-la-lluvia-2026-11-07</guid>
+      <enclosure url="https://files.catbox.moe/rghglh.mp3" length="30335553" type="audio/mpeg"/>
+      <itunes:duration>31:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Kiev bajo fuego, la Fiscalía Europea tras el AVE y la IA que rompe códigos — Entérate en 5, mediodía del 7 de noviembre</title>
       <description>Noticiero del mediodía del 7 de noviembre de 2026: Rusia bombardea Kiev con 36 misiles y 172 drones, la Fiscalía Europea investiga los fondos del AVE tras la tragedia de Urda, Irán levanta el límite a sus misiles, México recorta 5.000 millones al INE, la IA de DeepMind encuentra fallas en RSA y las sondas ESCAPADE usan la Tierra como trampolín a Marte. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sat, 07 Nov 2026 12:52:33 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Simón cambia de rumbo, Trump no interviene en Yemen y el papa será operado</title>
-      <description>Edición de la tarde del domingo once de octubre: el huracán Simón se desvía de Jalisco, Trump decide no bombardear Yemen, el papa León XIV anuncia cirugía, Ucrania resiste la presión de Washington, réplicas en Panamá y la movilización por la segunda vuelta en Brasil. Con Sofía y Diego. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Sun, 11 Oct 2026 17:46:02 -0400</pubDate>
-      <guid isPermaLink="false">simn-cambia-de-rumbo-trump-no-interviene-en-yemen-y-el-papa-ser-operado-2026-10-11</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/simn-cambia-de-rumbo-trump-no-interviene-en-yemen-y-el-papa-ser-operado-2026-10-11.mp3" length="3369245" type="audio/mpeg"/>
-      <itunes:duration>03:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
