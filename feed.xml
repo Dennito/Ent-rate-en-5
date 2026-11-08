@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 08 Nov 2026 07:26:01 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                    <item>
+    <lastBuildDate>Sun, 08 Nov 2026 18:37:44 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                        <item>
+      <title>Alcaraz conquista París, arden dos petroleros en Ormuz y la Tierra tiene miniluna — Entérate en 5, mediodía del 8 de noviembre</title>
+      <description>Carlos Alcaraz gana su primer Masters 1000 de París, dos petroleros arden en Ormuz, Ucrania bajo fuego, Lima cambia de alcalde, el ordenador cien por ciento chino de Huawei, una supertierra habitable, una miniluna prestada y el deporte del domingo. Sofía y Diego, en Entérate en 5 con Dennito. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Sun, 08 Nov 2026 18:37:44 -0500</pubDate>
+      <guid isPermaLink="false">alcaraz-conquista-pars-arden-dos-petroleros-en-ormuz-y-la-tierra-tiene-miniluna-entrate-en-5-medioda-del-8-de-noviembre-2026-11-08</guid>
+      <enclosure url="https://files.catbox.moe/qs64ua.mp3" length="29313193" type="audio/mpeg"/>
+      <itunes:duration>33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Puerta de Hierro contra Irán, Peña en prisión y la NASA busca astronautas — Entérate en 5, mañana del 8 de noviembre</title>
       <description>Noticiero de la mañana del 8 de noviembre de 2026: Estados Unidos crea la operación Puerta de Hierro contra Irán, Paraguay mete en prisión a su expresidente, Israel encarga gobierno a Eisenkot, la NASA recluta astronautas para la Luna y el Madrid golea en Mestalla. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Sun, 08 Nov 2026 07:26:01 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>05:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Simón baja a categoría 3, Ormuz en llamas y récord mexicano en Chicago | Entérate en 5 con Dennito — 12 de octubre de 2026</title>
-      <description>Resumen nocturno del 12 de octubre: Simón se debilita a categoría 3 con saldo trágico y rumbo a Mazatlán; dos petroleros atacados en Ormuz con dos marineros desaparecidos; Lula sale a la Paulista a dos semanas del balotaje; un año del plan de paz de Trump en Gaza; y Jorge Luis Cruz rompe el récord nacional de maratón en Chicago. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Mon, 12 Oct 2026 17:45:40 -0400</pubDate>
-      <guid isPermaLink="false">simn-baja-a-categora-3-ormuz-en-llamas-y-rcord-mexicano-en-chicago-entrate-en-5-con-dennito-12-de-octubre-de-2026-2026-10-12</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/simn-baja-a-categora-3-ormuz-en-llamas-y-rcord-mexicano-en-chicago-entrate-en-5-con-dennito-12-de-octubre-de-2026-2026-10-12.mp3" length="4178831" type="audio/mpeg"/>
-      <itunes:duration>04:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
