@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 09 Nov 2026 12:46:41 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                <item>
+    <lastBuildDate>Wed, 11 Nov 2026 10:45:29 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                    <item>
+      <title>Trump estalla tras la derrota, Irán cobra peaje en Ormuz y España golea a Brasil — Entérate en 5, tarde del 8 de noviembre</title>
+      <description>Trump estalla tras la derrota republicana, Irán cobra peaje en Ormuz, choque de trenes en Egipto, el papa en Argentina, la carrera lunar y el deporte del domingo. Sofía y Diego, en Entérate en 5 con Dennito. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Wed, 11 Nov 2026 10:45:29 -0500</pubDate>
+      <guid isPermaLink="false">trump-estalla-tras-la-derrota-irn-cobra-peaje-en-ormuz-y-espaa-golea-a-brasil-entrate-en-5-tarde-del-8-de-noviembre-2026-11-08</guid>
+      <enclosure url="https://files.catbox.moe/vm0yhi.mp3" length="28956315" type="audio/mpeg"/>
+      <itunes:duration>33:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Trump duda de las elecciones, Google estrena sus TPU y los químicos eternos en el agua</title>
       <description>Mediodía del lunes 9 de noviembre: Trump pone en duda las elecciones del 3 de noviembre y admite que sus deportaciones fueron demasiado duras; Google presenta sus nuevas TPU mientras Nvidia cae; químicos eternos en el agua de 197 millones de estadounidenses; Starship prepara su doble captura; Cruz Azul es el nuevo líder de la Liga MX. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Mon, 09 Nov 2026 12:46:41 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>04:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>El papa León XIV, espionaje en OpenAI y el huracán Simón llega hoy | Entérate en 5 con Dennito — 14 de octubre de 2026</title>
-      <description>Edición matutina del miércoles 14 de octubre: el papa León XIV fue operado con éxito de un adenocarcinoma pulmonar; el FBI detuvo a un ingeniero de OpenAI acusado de instalar un micrófono oculto en la sala de reuniones; el huracán Simón toca tierra en Mazatlán entre hoy y mañana; Trump acelera con dos mítines y admite riesgo en las intermedias; un juez bloqueó el veto de prensa de la Casa Blanca e Irán cambia sus tácticas en Ormuz. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Wed, 14 Oct 2026 06:45:10 -0400</pubDate>
-      <guid isPermaLink="false">el-papa-len-xiv-espionaje-en-openai-y-el-huracn-simn-llega-hoy-entrate-en-5-con-dennito-14-de-octubre-de-2026-2026-10-14</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/el-papa-len-xiv-espionaje-en-openai-y-el-huracn-simn-llega-hoy-entrate-en-5-con-dennito-14-de-octubre-de-2026-2026-10-14.mp3" length="4108196" type="audio/mpeg"/>
-      <itunes:duration>04:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
