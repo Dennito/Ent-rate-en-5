@@ -17,8 +17,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 11 Nov 2026 10:49:14 -0500</lastBuildDate>
-                                                                                                                                                                                                                                                                                                                                                        <item>
+    <lastBuildDate>Thu, 12 Nov 2026 14:50:29 -0500</lastBuildDate>
+                                                                                                                                                                                                                                                                                                                                                            <item>
+      <title>Nvidia se desploma en bolsa, Mahomes se lesiona y una galaxia sin estrellas — Entérate en 5, tarde del 9 de noviembre</title>
+      <description>Nvidia pierde miles de millones en bolsa tras el escándalo de su jefe; el Congreso vuelve con el reloj en contra; Mahomes se lesiona; Reaves brilla con 43 puntos; y una galaxia sin estrellas. Sofía y Diego te lo cuentan todo. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
+      <pubDate>Thu, 12 Nov 2026 14:50:29 -0500</pubDate>
+      <guid isPermaLink="false">nvidia-se-desploma-en-bolsa-mahomes-se-lesiona-y-una-galaxia-sin-estrellas-entrate-en-5-tarde-del-9-de-noviembre-2026-11-09</guid>
+      <enclosure url="https://files.catbox.moe/zi9vua.mp3" length="29329140" type="audio/mpeg"/>
+      <itunes:duration>33:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Abu Dabi negocia la paz en su segundo día, España se para en huelga general y Jordan manda en la minoría republicana — Entérate en 5, mañana del 11 de noviembre</title>
       <description>Abu Dabi negocia la paz en su segundo día, España se para en huelga general, el papa llega a Perú, Jordan manda en la minoría republicana y Anthropic sale a bolsa. Entérate en 5 con Dennito, mañana del 11 de noviembre de 2026. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
       <pubDate>Wed, 11 Nov 2026 10:49:14 -0500</pubDate>
@@ -549,15 +558,7 @@
       <itunes:duration>05:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
-      <title>Maduro en la corte, Caro Quintero sin acuerdo y Zelenski endurece el tono</title>
-      <description>Entérate en 5 con Dennito: audiencia de Maduro y Cilia Flores hoy en Nueva York, Caro Quintero sin acuerdo en Brooklyn, Zelenski vs Trump por Starlink, gasolina arriba y el FMI recorta a América Latina. Música de fondo: "News Intro Headline Broadcast Open" por alex-morgan, vía Pixabay (uso comercial permitido). Efectos de sonido: Mixkit (mixkit.co), licencia gratuita.</description>
-      <pubDate>Thu, 15 Oct 2026 06:44:32 -0400</pubDate>
-      <guid isPermaLink="false">maduro-en-la-corte-caro-quintero-sin-acuerdo-y-zelenski-endurece-el-tono-2026-10-15</guid>
-      <enclosure url="https://raw.githubusercontent.com/Dennito/Ent-rate-en-5/main/audio/maduro-en-la-corte-caro-quintero-sin-acuerdo-y-zelenski-endurece-el-tono-2026-10-15.mp3" length="4444236" type="audio/mpeg"/>
-      <itunes:duration>05:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+
 
 
 
